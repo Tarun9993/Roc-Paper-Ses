@@ -1,4 +1,4 @@
-
-
-This is a simple Rock Paper Scissors game implemented in Java. The player can choose between Rock (r), Paper (p), or Scissors (s), and the computer will make a random choice. The game will determine the winner and prompt the player to play again if desired.
+This is a simple Rock Paper Scissors game implemented in Java. 
+The player can choose between Rock (r), Paper (p), or Scissors (s), and the computer will make a random choice. 
+The game will determine the winner and prompt the player to play again if desired.
 
